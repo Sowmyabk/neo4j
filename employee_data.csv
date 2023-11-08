@@ -1,0 +1,5 @@
+employeeid,fullname,role,location,supervised_by
+101,Kevin,Associate,New York,1
+102,Richard,Engineer,Los Angeles,2
+103,Helen,Associate,Chicago,3
+104,Mark,Engineer,New York,1
