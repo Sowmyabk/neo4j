@@ -8,7 +8,7 @@ employee_id,first_name,last_name,role,location,supervised_by
 7,Karen,Wilson,Engineer,Chicago,AliceWilliams
 8,Mark,Anderson,Manager,Dallas,Varun
 9,Laura,Martinez,SalesAssociate,Dallas,MarkAnderson
-10,Kevin,Garcia,Engineer,Dallas,Mar Anderson
+10,Kevin,Garcia,Engineer,Dallas,MarkAnderson
 11,William,Lee,Manager,Miami,Varun
 12,Helen,Harris,SalesAssociate,Miami,WilliamLee
 13,Richard,Clark,Engineer,Miami,WilliamLee
