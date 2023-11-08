@@ -1,0 +1,14 @@
+employee_id,first_name,last_name,role,location,supervised_by
+1,John,Doe,Manager,New York, Roy George
+2,Jane,Smith,Sales Associate,Los Angeles,John Doe
+3,Robert,Johnson,Sales Associate,Los Angeles,John Doe
+4,Susan,Brown,Engineer,San Francisco,John Doe
+5,Alice,Williams,Manager,Chicago,Roy George
+6,Michael,Davis,Sales Associate,Chicago,Alice Williams
+7,Karen,Wilson,Engineer,Chicago,Alice Williams
+8,Mark,Anderson,Manager,Dallas,Varun
+9,Laura,Martinez,Sales Associate,Dallas,Mark Anderson
+10,Kevin,Garcia,Engineer,Dallas,Mark Anderson
+11,William,Lee,Manager,Miami,Varun
+12,Helen,Harris,Sales Associate,Miami,William Lee
+13,Richard,Clark,Engineer,Miami,William Lee
