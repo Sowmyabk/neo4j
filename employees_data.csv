@@ -1,5 +1,5 @@
 employee_id,first_name,last_name,role,location,supervised_by
-1,John,Doe,Manager,New York, Roy George
+1,John,Doe,Manager,New York,Roy George
 2,Jane,Smith,Sales Associate,Los Angeles,John Doe
 3,Robert,Johnson,Sales Associate,Los Angeles,John Doe
 4,Susan,Brown,Engineer,San Francisco,John Doe
