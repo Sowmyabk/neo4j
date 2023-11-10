@@ -1,5 +1,5 @@
-employeeid,fullname,role,location,supervised_by,project
-101,Kevin,Associate,New York,1,"Project A, Project C"
-102,Richard,Engineer,Los Angeles,2,"Project B, Project D"
-103,Helen,Associate,Chicago,3,"New Project 1, New Project 2, New Project 3"
-104,Mark,Engineer,New York,1,"Project G,Project H"
+employeeid,fullname,location,supervised_by,project,languages,availability,roles
+101,Kevin,New York,1,"Project A, Project C","English, German","onsite, offshore","Associate,Developer, Tester"
+102,Richard,Los Angeles,2,"Project B, Project D",English,onsite,"Engineer,Developer"
+103,Helen,Chicago,3,"New Project 1, New Project 2, New Project 3",German,offshore,"Associate,Tester"
+104,Mark,New York,1,"Project G,Project H",French,"onsite, offshore","Engineer,Developer, Tester"
