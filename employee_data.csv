@@ -1,5 +1,4 @@
-employeeid,fullname,location,supervised_by,project,languages,availability,roles
-101,Kevin,New York,1,"Project A, Project C","English, German","onsite, offshore","Associate,Developer, Tester"
-102,Richard,Los Angeles,2,"Project B, Project D",English,onsite,"Engineer,Developer"
-103,Helen,Chicago,3,"New Project 1, New Project 2, New Project 3",German,offshore,"Associate,Tester"
-104,Mark,New York,1,"Project G,Project H",French,"onsite, offshore","Engineer,Developer, Tester"
+"employeeid,fullname,role,location,supervised_by"
+"101,Alice Johnson,Developer,Office A,1"
+"102,Charlie Brown,Analyst,Office B,2"
+"103,Eve White,Designer,Office C,3"
