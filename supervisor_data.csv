@@ -1,4 +1,4 @@
-employeeid,fullname,role,location
+supervisorid,fullname,role,location
 1,Roy,Manager,New York
 2,Varun,Director,Los Angeles
 3,John 3,Manager,Chicago

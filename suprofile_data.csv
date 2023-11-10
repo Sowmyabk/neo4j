@@ -1,0 +1,4 @@
+supervisorid,languages,availability,roles
+1,Arabic,onsite,"Manager,Developer, Tester"
+2,French,offshore,"Director,Developer, Tester"
+2,Arabic,"onsite, offshore","Manager,Developer, Tester"
