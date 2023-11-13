@@ -1,5 +1,21 @@
-employeeid,fullname,location,supervised_by,project,languages,availability,role
-101,Kevin,New York,1,"Project A, Project C","English, German","onsite, offshore","Associate,Developer, Tester"
-102,Richard,Los Angeles,2,"Project B, Project D",English,onsite,"Engineer,Developer"
-103,Helen,Chicago,3,"New Project 1, New Project 2, New Project 3",German,offshore,"Associate,Tester"
-104,Mark,New York,1,"Project G,Project H",French,"onsite, offshore","Engineer,Developer, Tester"
+employeeid,fullname,location,supervised_by,languages,role,availability,experience,industry,competencies,project
+101,Alice Johnson,Location C,1,"French, German",Developer,"onsite, offshore",5 years,IT,"Coding, Problem Solving",Project Gamma
+102,Bob Brown,Location D,1,"English, Mandarin",Analyst,onsite,3 years,Finance,"Data Analysis, Communication",Project Delta
+103,Eva Rodriguez,Location E,1,"Spanish, Portuguese",Designer,offshore,7 years,Media,"Graphic Design, Creativity",Project Epsilon
+104,Michael Lee,Location F,2,"English, Korean",Developer,"onsite, offshore",4 years,IT,"Coding, Collaboration",Project Zeta
+105,Sophia Kim,Location G,2,"Korean, Japanese",Manager,offshore,8 years,Management,"Leadership, Decision Making",Project Eta
+106,Daniel Wang,Location H,2,"English, Mandarin",Analyst,onsite,2 years,Finance,"Data Analysis, Communication",Project Theta
+107,Olivia Chen,Location I,3,"Mandarin, Cantonese",Developer,"onsite, offshore",6 years,IT,"Coding, Problem Solving",Project Iota
+108,William Li,Location J,3,"English, French",Designer,onsite,5 years,Media,"Graphic Design, Creativity",Project Kappa
+109,Emma Liu,Location K,3,"English, Cantonese",Developer,"onsite, offshore",3 years,IT,"Coding, Collaboration",Project Lambda
+110,Matthew Wu,Location L,3,"English, Japanese",Analyst,onsite,4 years,Finance,"Data Analysis, Communication",Project Mu
+111,Ava Wong,Location M,4,"English, Spanish",Designer,"onsite, offshore",2 years,Media,"Graphic Design, Creativity",Project Nu
+112,Jackson Huang,Location N,4,"English, Mandarin",Developer,onsite,7 years,IT,"Coding, Problem Solving",Project Xi
+113,Sophie Chen,Location O,4,"English, French",Analyst,offshore,6 years,Finance,"Data Analysis, Communication",Project Omicron
+114,Lucas Kim,Location P,5,"Korean, Japanese",Manager,offshore,8 years,Management,"Leadership, Decision Making",Project Pi
+115,Lily Wang,Location Q,5,"English, Mandarin",Designer,"onsite, offshore",4 years,Media,"Graphic Design, Creativity",Project Rho
+116,Oscar Chen,Location R,5,"Mandarin, Cantonese",Developer,offshore,5 years,IT,"Coding, Collaboration",Project Sigma
+117,Sophia Kim,Location S,1,"English, French",Analyst,onsite,3 years,Finance,"Data Analysis, Communication",Project Tau
+118,Daniel Wu,Location T,2,"English, Spanish",Designer,onsite,6 years,Media,"Graphic Design, Creativity",Project Upsilon
+119,Emily Zhang,Location U,3,"English, Cantonese",Developer,onsite,2 years,IT,"Coding, Problem Solving",Project Phi
+120,Mia Liu,Location V,4,"English, Japanese",Manager,onsite,7 years,Management,"Leadership, Decision Making",Project Chi

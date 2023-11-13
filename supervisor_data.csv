@@ -1,4 +1,6 @@
-employeeid,fullname,location,languages,availability,role
-1,Roy,New York,Arabic,onsite,"Manager,Developer, Tester"
-2,Varun,Los Angeles,French,offshore,"Director,Developer, Tester"
-3,John3,Chicago,English,"onsite, offshore","Manager,Developer, Tester"
+employeeid,fullname,location,role,languages,availability,project
+1,John Doe,Location A,Manager,"English, Spanish",onsite,Project Alpha
+2,Jane Smith,Location B,Team Lead,English,onsite,Project Beta
+3,Alice Johnson,Location C,Supervisor,"French, German",offshore,Project Gamma
+4,Bob Brown,Location D,Manager,"English, Mandarin","onsite, offshore",Project Delta
+5,Eva Rodriguez,Location E,Team Lead,"Spanish, Portuguese","onsite, offshore",Project Epsilon
