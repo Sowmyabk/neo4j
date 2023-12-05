@@ -1,16 +1,16 @@
 employeeid,employeename,location,supervised_by,languages,role,availability,experience,industry,competencies,projectname,description,duration,skill_levels
-1,John Doe,Germany,,"German, English",Developer,Onshore,5,IT,"AWS, PYTHON",ProjectA,Developing backend,0 days 08:00:00,Advanced
-2,Jane Smith,India,1.0,English,PLM Consultant,Offshore,8,Finance,"DEVOPS, PYTHON",ProjectB,Consulting on PLM strategy,0 days 10:00:00,Expert
-3,Bob Johnson,USA,1.0,"English, French",Software Engineer,Onshore,10,Management,"AWS, DEVOPS",ProjectC,Full-stack development,0 days 08:00:00,Expert
-4,Alice Brown,Germany,3.0,"German, English",Tester,Offshore,7,IT,"PYTHON, NEO4J",ProjectD,Quality assurance,0 days 08:00:00,Expert
-5,Charlie Wilson,India,1.0,English,Developer,Onshore,5,Finance,"PYTHON, TEAMCENTER",ProjectE,Backend development,0 days 08:00:00,Expert
-6,Eva Miller,USA,,English,PLM Consultant,Offshore,9,Management,"DEVOPS, TEAMCENTER",ProjectF,PLM implementation,0 days 08:00:00,Expert
-7,David Taylor,Germany,6.0,"German, English",Software Engineer,Onshore,8,IT,"AWS, DEVOPS",ProjectG,System architecture,0 days 08:00:00,Expert
-8,Grace Martin,India,6.0,"English, French",Tester,Offshore,5,Finance,"NEO4J, TEAMCENTER",ProjectH,Testing automation,0 days 10:00:00,Advanced
-9,Frank White,USA,,English,Developer,Onshore,6,Management,"Excel, Projectfact",ProjectI,Frontend development,0 days 16:00:00,Referent
-10,Helen Turner,Germany,9.0,"German, English",PLM Consultant,Offshore,8,IT,"DEVOPS, PYTHON",ProjectJ,PLM customization,0 days 10:00:00,Expert
-11,Ivan Reed,India,9.0,English,Software Engineer,Onshore,10,Finance,"AWS, TEAMCENTER",ProjectK,Full-stack development,0 days 08:00:00,Master
-12,Jessica Parker,USA,11.0,"English, French",Tester,Offshore,6,Management,"NEO4J, TEAMCENTER",ProjectL,Performance testing,0 days 10:00:00,Expert
-13,Kevin Adams,Germany,,"German, English",Developer,Onshore,12,IT,"AWS, DEVOPS",ProjectM,Database design,0 days 16:00:00,Master
-14,Linda Brown,India,13.0,English,PLM Consultant,Offshore,7,Finance,"DEVOPS, PYTHON",ProjectN,PLM consulting,0 days 10:00:00,Expert
-15,Mark Turner,USA,13.0,"English, French",Software Engineer,Onshore,8,Management,"AWS, DEVOPS",ProjectO,System integration,0 days 08:00:00,Expert
+1,John Doe,Germany,,"German, English",Developer,Onshore,5,IT,"AWS, PYTHON",ProjectA,Developing backend,8,Advanced
+2,Jane Smith,India,1.0,English,PLM Consultant,Offshore,8,Finance,"DEVOPS, PYTHON",ProjectB,Consulting on PLM strategy,10,Expert
+3,Bob Johnson,USA,1.0,"English, French",Software Engineer,Onshore,10,Management,"AWS, DEVOPS",ProjectC,Full-stack development,8,Expert
+4,Alice Brown,Germany,3.0,"German, English",Tester,Offshore,7,IT,"PYTHON, NEO4J",ProjectD,Quality assurance,8,Expert
+5,Charlie Wilson,India,1.0,English,Developer,Onshore,5,Finance,"PYTHON, TEAMCENTER",ProjectE,Backend development,8,Expert
+6,Eva Miller,USA,,English,PLM Consultant,Offshore,9,Management,"DEVOPS, TEAMCENTER",ProjectF,PLM implementation,8,Expert
+7,David Taylor,Germany,6.0,"German, English",Software Engineer,Onshore,8,IT,"AWS, DEVOPS",ProjectG,System architecture,8,Expert
+8,Grace Martin,India,6.0,"English, French",Tester,Offshore,5,Finance,"NEO4J, TEAMCENTER",ProjectH,Testing automation,10,Advanced
+9,Frank White,USA,,English,Developer,Onshore,6,Management,"Excel, Projectfact",ProjectI,Frontend development,16,Referent
+10,Helen Turner,Germany,9.0,"German, English",PLM Consultant,Offshore,8,IT,"DEVOPS, PYTHON",ProjectJ,PLM customization,10,Expert
+11,Ivan Reed,India,9.0,English,Software Engineer,Onshore,10,Finance,"AWS, TEAMCENTER",ProjectK,Full-stack development,8,Master
+12,Jessica Parker,USA,11.0,"English, French",Tester,Offshore,6,Management,"NEO4J, TEAMCENTER",ProjectL,Performance testing,10,Expert
+13,Kevin Adams,Germany,,"German, English",Developer,Onshore,12,IT,"AWS, DEVOPS",ProjectM,Database design,16,Master
+14,Linda Brown,India,13.0,English,PLM Consultant,Offshore,7,Finance,"DEVOPS, PYTHON",ProjectN,PLM consulting,10,Expert
+15,Mark Turner,USA,13.0,"English, French",Software Engineer,Onshore,8,Management,"AWS, DEVOPS",ProjectO,System integration,8,Expert
